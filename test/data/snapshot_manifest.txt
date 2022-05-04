@@ -1,0 +1,18 @@
+SNAPSHOT_VERSION:3.0
+WP_BLOG_ID:0
+MULTISITE:0
+WP_MULTISITE_MAIN_SITE:0
+WP_HOME:http://leaseworld.wpengine.com
+WP_SITEURL:http://leaseworld.wpengine.com
+WP_BLOG_NAME:Lease World
+WP_BLOG_DOMAIN:leaseworld.wpengine.com
+WP_BLOG_PATH:0
+WP_VERSION:4.6.1
+WP_DB_VERSION:37965
+WP_DB_NAME:wp_leaseworld
+WP_DB_BASE_PREFIX:wp_
+WP_DB_PREFIX:wp_
+WP_UPLOAD_PATH:wp-content/uploads
+WP_UPLOAD_URLS:/wp-content/uploads
+SEGMENT_SIZE:1000
+QUEUES:a:2:{i:0;a:2:{s:4:"type";s:7:"fileset";s:7:"sources";a:1:{i:0;s:4:"full";}}i:1;a:2:{s:4:"type";s:8:"tableset";s:7:"sources";a:50:{i:0;s:14:"wp_commentmeta";i:1;s:11:"wp_comments";i:2;s:8:"wp_links";i:3;s:10:"wp_options";i:4;s:11:"wp_postmeta";i:5;s:8:"wp_posts";i:6;s:21:"wp_term_relationships";i:7;s:16:"wp_term_taxonomy";i:8;s:11:"wp_termmeta";i:9;s:8:"wp_terms";i:10;s:11:"wp_usermeta";i:11;s:8:"wp_users";i:12;s:18:"wp_ab_appointments";i:13;s:16:"wp_ab_categories";i:14;s:13:"wp_ab_coupons";i:15;s:27:"wp_ab_customer_appointments";i:16;s:15:"wp_ab_customers";i:17;s:14:"wp_ab_holidays";i:18;s:19:"wp_ab_notifications";i:19;s:14:"wp_ab_payments";i:20;s:26:"wp_ab_schedule_item_breaks";i:21;s:24:"wp_ab_sent_notifications";i:22;s:14:"wp_ab_services";i:23;s:11:"wp_ab_staff";i:24;s:26:"wp_ab_staff_schedule_items";i:25;s:20:"wp_ab_staff_services";i:26;s:22:"wp_duplicator_packages";i:27;s:15:"wp_pmxe_exports";i:28;s:13:"wp_pmxe_posts";i:29;s:17:"wp_pmxe_templates";i:30;s:13:"wp_pmxi_files";i:31;s:15:"wp_pmxi_history";i:32;s:15:"wp_pmxi_imports";i:33;s:13:"wp_pmxi_posts";i:34;s:17:"wp_pmxi_templates";i:35;s:16:"wp_revslider_css";i:36;s:29:"wp_revslider_layer_animations";i:37;s:24:"wp_revslider_navigations";i:38;s:20:"wp_revslider_sliders";i:39;s:19:"wp_revslider_slides";i:40;s:26:"wp_revslider_static_slides";i:41;s:10:"wp_rg_form";i:42;s:15:"wp_rg_form_meta";i:43;s:15:"wp_rg_form_view";i:44;s:28:"wp_rg_incomplete_submissions";i:45;s:10:"wp_rg_lead";i:46;s:17:"wp_rg_lead_detail";i:47;s:22:"wp_rg_lead_detail_long";i:48;s:15:"wp_rg_lead_meta";i:49;s:16:"wp_rg_lead_notes";}}}

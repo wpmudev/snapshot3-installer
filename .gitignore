@@ -1,0 +1,8 @@
+node_modules/
+build/
+bin/
+si-error.log
+src/palette.gpl
+.tags*
+doc
+doc/

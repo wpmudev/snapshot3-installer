@@ -1,0 +1,30 @@
+{
+  "name": "snapshot-installer",
+  "version": "1.0.1",
+  "description": "Standalone Snapshot backup installer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "remarkConfig": {
+    "plugins": {
+      "lint": {
+        "no-tabs": false
+      }
+    }
+  },
+  "author": "",
+  "license": "GPL",
+  "main": "src/loader",
+  "wdp_id": "1109034",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-compress": "^1.6.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-wp-i18n": "^1.0.1",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
